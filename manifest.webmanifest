@@ -1,0 +1,1 @@
+{"name":"officechat","short_name":"officechat","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/","theme_color":"#fff","icons":[{"src":"/logo.svg","sizes":"192x192","type":"image/png"},{"src":"/logo.svg","sizes":"512x512","type":"image/png"},{"src":"/logo.svg","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
