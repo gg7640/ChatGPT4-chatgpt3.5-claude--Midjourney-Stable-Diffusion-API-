@@ -1,7 +1,7 @@
 # ChatGPT 商业版，支持Midjourney绘图，GPT4，gpt3.5
 # 联系方式:
-v:office-tech Q:764093443
-自助下单：https://officechat.site/
+#v:office-tech Q:764093443
+#自助下单：https://officechat.site/
 演示站点：https://www.officechat.com.cn/
 # ChatGPT 商业版
 用户登录注册，邀请激励，二级分销，在线支付，角色扮演，gpt3.5，GPT4，Midjourney绘图 欲购从速，即将涨价四位数，正在对接Stable Diffusion绘画 Midjourney绘图已上线
