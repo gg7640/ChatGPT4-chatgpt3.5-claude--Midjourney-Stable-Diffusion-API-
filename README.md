@@ -10,7 +10,7 @@ https://shop.officechat.site/
 https://www.officechat.com.cn/
 ---
 ---
-### 🤑ChatGPT 商业版
+# 🤑ChatGPT 商业版
 用户登录注册，邀请激励，二级分销，自定义，在线支付，角色扮演，gpt3.5，GPT4，Midjourney绘图 欲购从速，即将涨价四位数，正在对接Stable Diffusion绘画 Midjourney绘图已上线
 - 前端
 ![image](https://github.com/gg7640/ChatGPT4-Midjourney-Stable-Diffusion/assets/128571467/1ea3221b-63a7-4cd3-98db-7aa44caf9aac)
@@ -18,15 +18,15 @@ https://www.officechat.com.cn/
 ![image](https://github.com/gg7640/ChatGPT4-Midjourney-Stable-Diffusion/assets/128571467/5ecbcdce-9535-4d79-899c-94df7e1ad590)
 - 后台
 ![image](https://github.com/gg7640/ChatGPT4-Midjourney-Stable-Diffusion/assets/128571467/98557b2a-8756-4c89-ac51-13de724f5abc)
-#🌳 Docker 一键部署
+# 🌳Docker 一键部署
 - 支持 AMD64 和 ARM64
 - docker run -d --restart=always -p 8000:8000 --name aichat lanol/aichat
-#数据库
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+# 数据库
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ---
 ---
-### 😝ChatGPT仿官网站点
+# 😝ChatGPT仿官网站点
 - 用户登录注册，邀请激励，
 - 二级分销，自定义，在线支付，
 - 角色扮演，gpt3.5，GPT4，
@@ -37,7 +37,7 @@ https://www.officechat.com.cn/
 ![image](https://github.com/gg7640/ChatGPT4-Midjourney-Stable-Diffusion/assets/128571467/98557b2a-8756-4c89-ac51-13de724f5abc)
 ---
 ---
-### 😜ChatGPT自用站点
+# 😜ChatGPT自用站点
 - GPT4
 - GPT3.5
 - dell-e绘图
