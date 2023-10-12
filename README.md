@@ -1,4 +1,4 @@
-# ChatGPT 商业版，支持Midjourney绘图，GPT4，GPT3.5，claud模型,azure模型，对接Stable Diffusion绘画，傻瓜式一键部署，有手就行。
+# ChatGPT 商业版，支持Midjourney绘图，GPT4，GPT3.5，claude-100k模型,azure模型，对接Stable Diffusion绘画，傻瓜式一键部署，有手就行。
 ---
 ### 💬联系方式:
 v:office-tech Q:764093443
