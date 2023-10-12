@@ -11,7 +11,7 @@ https://www.officechat.com.cn/
 ---
 ---
 # 🤑ChatGPT 商业版
-用户登录注册，邀请激励，二级分销，自定义，在线支付，角色扮演，gpt3.5，GPT4，claud模型,azure模型，Midjourney绘图 欲购从速，即将涨价四位数，正在对接Stable Diffusion绘画 Midjourney绘图已上线
+用户登录注册，邀请激励，二级分销，自定义，在线支付，角色扮演，gpt3.5，GPT4，claude-100k模型,azure模型，Midjourney绘图 欲购从速，即将涨价四位数，正在对接Stable Diffusion绘画 Midjourney绘图已上线
 - 前端
 ![image](https://github.com/gg7640/ChatGPT4-Midjourney-Stable-Diffusion/assets/128571467/1ea3221b-63a7-4cd3-98db-7aa44caf9aac)
 ![image](https://github.com/gg7640/ChatGPT4-Midjourney-Stable-Diffusion/assets/128571467/0117dd6e-192e-46a7-adbd-48e444ab0b50)
