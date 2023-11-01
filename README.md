@@ -1,12 +1,12 @@
-# ChatGPT 商业版，支持Midjourney绘图，GPT4，GPT3.5，claude-100k模型,azure模型，对接Stable Diffusion绘画，傻瓜式一键部署，有手就行。
+# ChatGPT 商业版，Claude全模型Gpt全模型二次分发，支持Midjourney绘图，GPT4，GPT3.5，claude-100k模型,azure模型，对接Stable Diffusion绘画，傻瓜式一键部署，有手就行。
 ---
 ### 💬联系方式:
 v:office-tech Q:764093443
 ![771686996301_ pic](https://github.com/gg7640/chatgpt/assets/128571467/cb60201f-729a-47d5-b8f6-72122df70ba5)---
-### 🔭自助下单
-https://shop.officechat.site/
+### 🔭API二次分发站带你
+https://api.officechat.cc/
 ---
-### 😄演示站点
+### 😄商业版演示站点
 https://www.officechat.com.cn/
 ---
 ---
